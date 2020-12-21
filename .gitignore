@@ -1,0 +1,4 @@
+.spyproject/
+log/
+test.*
+*.log
